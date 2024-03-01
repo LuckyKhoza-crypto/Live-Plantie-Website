@@ -1,5 +1,5 @@
 # DjangoApplication
-**Link to hosted website:** https://luckykhoza.pythonanywhere.com/plantie_images
+**Link to hosted website:** https://luckykhoza.pythonanywhere.com/
 
 Developed a Django website where users can login to upload pictures and comment. I'm still working on other parts of the project. For example, soon I will implement an AI that checks whether an image is a plant or not. 
 If it's not, it will prevent the user from uploading that image. This will reduce the need for monitoring on my side.
